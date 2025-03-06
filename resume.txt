@@ -1,0 +1,58 @@
+MANOJ MADDURI
++1 678 404 2204 | manojmadduri835@gmail.com | Atlanta, GA
+
+PROFESSIONAL SUMMARY
+Highly skilled Java Developer with 8+ years of experience in designing, developing, and maintaining enterprise-level applications. Expertise in Java, Spring Boot, Microservices, and AWS cloud technologies. Strong background in full-stack development with a focus on building scalable and efficient solutions. Seeking contract/C2C opportunities.
+
+TECHNICAL SKILLS
+• Languages: Java, JavaScript, TypeScript, SQL, HTML, CSS
+• Frameworks: Spring Boot, Spring MVC, Hibernate, Angular, React
+• Cloud: AWS (EC2, S3, Lambda, DynamoDB, CloudFormation)
+• Databases: Oracle, MySQL, PostgreSQL, MongoDB
+• Tools: Git, Maven, Gradle, Jenkins, Docker, Kubernetes, Jira
+• Methodologies: Agile, Scrum, TDD, CI/CD
+
+PROFESSIONAL EXPERIENCE
+
+Senior Java Developer (Contract)
+XYZ Financial Services | Atlanta, GA | Jan 2022 - Present
+• Designed and implemented microservices architecture using Spring Boot and AWS
+• Developed RESTful APIs for integration with third-party financial systems
+• Implemented CI/CD pipeline using Jenkins and Docker for automated testing and deployment
+• Reduced application response time by 40% through code optimization and caching strategies
+• Mentored junior developers and conducted code reviews to ensure quality standards
+
+Java Developer (C2C)
+ABC Technology Solutions | Remote | Mar 2020 - Dec 2021
+• Built scalable backend services using Java 11, Spring Boot, and Hibernate
+• Designed and implemented database schemas and stored procedures in PostgreSQL
+• Developed front-end components using Angular and TypeScript
+• Implemented OAuth2 and JWT for secure authentication and authorization
+• Participated in Agile ceremonies and sprint planning
+
+Java Full Stack Developer
+Global Tech Innovations | Atlanta, GA | Jun 2017 - Feb 2020
+• Developed and maintained enterprise applications using Java 8, Spring Framework, and Hibernate
+• Created responsive UI using React and Redux
+• Implemented RESTful web services for mobile application integration
+• Optimized SQL queries and database performance
+• Collaborated with QA team to resolve defects and improve application quality
+
+Junior Java Developer
+Tech Solutions Inc. | Charlotte, NC | Aug 2015 - May 2017
+• Developed Java applications using Spring MVC and Hibernate
+• Created and maintained database scripts and stored procedures
+• Implemented unit tests using JUnit and Mockito
+• Participated in code reviews and knowledge sharing sessions
+
+EDUCATION
+Master of Science in Computer Science
+Georgia State University, Atlanta, GA
+
+Bachelor of Technology in Computer Science
+Jawaharlal Nehru Technological University, India
+
+CERTIFICATIONS
+• AWS Certified Developer - Associate
+• Oracle Certified Professional, Java SE 11 Developer
+• Spring Professional Certification
